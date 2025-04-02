@@ -59,11 +59,11 @@
     </style>
 </head>
 <body>
-    <div class="card" onclick="window.location.href='https://YOURLINK.com'">
+    <div class="card" onclick="window.location.href='https://www.naver.com'">
         <img src="https://raw.githubusercontent.com/chldlsgn/monsterjunghan/main/1144_resized.jpg" alt="송금 이미지">
         <h2>송금 보냈어요</h2>
         <p><strong>1,000,000원을 보냈어요.</strong><br>송금 받기 전까지 보낸 분은 내역 상세화면에서 취소할 수 있어요.</p>
-        <button class="button" onclick="event.stopPropagation(); window.location.href='https://YOURLINK.com'">송금 받기</button>
+        <button class="button" onclick="event.stopPropagation(); window.location.href='https://www.naver.com'">송금 받기</button>
     </div>
 </body>
 </html>
